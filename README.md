@@ -1,7 +1,7 @@
 Wox.Plugin.FontAwesome
 =====================
 
-**Searching Font Awesome icons made easy.**  
+**Getting Font Awesome icons class made easy.**  
 
 Finding icons is very fast because it searches in local JSON files (instead of an online API).
 

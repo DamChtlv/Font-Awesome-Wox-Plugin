@@ -3,7 +3,6 @@
 # Imports
 import json
 import os
-# import pyperclip
 import webbrowser
 from wox import Wox, WoxAPI
 

@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "generate-icons": "node generate-icons.js"
+    "generate-icons": "node generate-icons.js",
+    "release": "zsh -c 'mkdir \"./Release\" && mkdir \"./Release/Font Awesome\" && cp -r {Images/,Json/,main.py,plugin.json} \"./Release/Font Awesome/\" && cd \"./Release/\" && zip -r \"Font Awesome.zip\" \"./Font Awesome/\" && mv \"Font Awesome.zip\" \"../Font Awesome.zip\" && cd ../ && rm -rf \"./Release\"'"
   },
   "author": "",
   "license": "ISC",

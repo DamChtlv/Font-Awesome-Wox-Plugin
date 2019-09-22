@@ -1,0 +1,15 @@
+{
+  "name": "font-awesome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate-icons": "node generate-icons.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pn": "^1.1.0",
+    "svg2png": "^4.1.1"
+  }
+}

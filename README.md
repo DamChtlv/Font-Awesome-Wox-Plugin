@@ -7,8 +7,8 @@ Finding icons is very fast because it searches in local JSON files (instead of a
 
 Features
 ---------
-You can search through all icons styles and click to copy icon class :  
-`fa close`  
+You can search through all icons styles and click to copy icon class : `fa close`  
+*(if you click on *times*, you will have `fa-times` in your clipboard)*
 
 [![Screen 1](https://github.com/DamChtlv/Font-Awesome-Wox-Plugin/blob/assets/Screenshots/screen1.png)](#screen1)  
 

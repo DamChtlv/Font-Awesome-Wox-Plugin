@@ -30,7 +30,7 @@ To install the plugin :
 
 Version
 -------
-*It's all based on **Font Awesome 5.11.1 version*** at the moment  
+*It's all based on **Font Awesome Pro 5.14 version** (2299 icons)* at the moment  
 
 Credits
 ---------
